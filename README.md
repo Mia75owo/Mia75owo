@@ -1,3 +1,5 @@
+# Mia
+
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=24F75B&center=true&vCenter=true&lines=%22insert+inspirational+quote+here%22)](https://git.io/typing-svg)
@@ -41,6 +43,7 @@
 	<a href="https://github.com/search?q=user%3ANils75owo+language%3Alua"><img alt="lua" src="https://img.shields.io/badge/lua-2C2D72.svg?logo=lua&logoColor=white"></a>
 </p>
 
+## Stats
 
 <div align="center">
 
