@@ -9,18 +9,19 @@
 <!--
 ![](https://komarev.com/ghpvc/?username=Nils75owo)
 -->
-	<img  src="https://img.shields.io/github/followers/Nils75owo?label=Follow" alt="LinkedIn Badge"/>
+	<img src="https://img.shields.io/github/followers/Nils75owo?label=Follow" alt="LinkedIn Badge"/>
 	<img src="https://img.shields.io/github/stars/Nils75owo?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
 </div>
 
 ### My favorite languages/frameworks/libraries/software/tools:
 
 <p>
-	<a href="https://github.com/search?q=user%3ANils75owo+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ANils75owo+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ANils75owo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ANils75owo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cplusplus&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ANils75owo+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ANils75owo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ANils75owo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ANils75owo+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=Rust&logoColor=white"></a>
 	<br>
 	<a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
 	<br>
